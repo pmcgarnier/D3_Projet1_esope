@@ -1,0 +1,134 @@
+header {
+  background: rgb(1, 46, 61);
+  padding: 25px;
+}
+
+header ul {
+  list-style-type: none;
+}
+
+header li {
+  display: inline-grid;
+  border: 1px solid #ffffff;
+}
+
+header a {
+  text-decoration: none;
+  color : #ffffff;
+  padding:20px;
+  display: block;
+}
+
+.hero {
+  background: rgb(236, 97, 89) url('images/fond.jpg') top center no-repeat;
+  filter: blur();
+  color : #fff;
+  min-height: 90vh;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.odd {
+  background: rgb(58, 79, 89);
+}
+
+.even {
+  background: rgb(236, 97, 89);
+}
+
+section {
+  min-height: 300px;
+  color : #fff;
+  padding: 20px;
+    background: rgb(58, 79, 89);
+  min-height: 80vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#section01 {
+  background: rgb(236, 97, 89) url('images/image01.jpg') top center no-repeat;
+  filter: blur();
+  color : #fff;
+  min-height: 90vh;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-align: center;
+}
+
+#section02 {
+  background: rgb(236, 97, 89) url('images/image02.jpg') top center no-repeat;
+  filter: blur();
+  color : #fff;
+  min-height: 130vh;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#section03 {
+  background: rgb(236, 97, 89) url('images/image03.jpg') bottom center no-repeat;
+  filter: blur();
+  color : #fff;
+  min-height: 130vh;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#section05 {
+  background: rgb(236, 97, 89) url('images/image05.jpg') bottom center no-repeat;
+  filter: blur();
+  color : #fff;
+  min-height: 130vh;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+.image-block {
+  min-height: 90vh;
+}
+
+.image-block img {
+  width :100;
+display:table-cell;
+margin-left: 485px;
+margin-top: 200px
+}
+
+.flotte {
+float:inherit;
+}
+
+
+
+
+figcaption {
+  font-family: 'Fahkwang', serif;
+  font-style: italic;
+}
+
+footer {
+  min-height: 300px;
+  color : #fff;
+  padding: 20px;
+  background: rgb(236, 97, 89) url('images/fond2.jpg') center no-repeat;
+  min-height: 80vh;
+  background-size: cover;
+  background-attachment: fixed;
+}

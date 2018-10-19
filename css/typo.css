@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Anaheim|Suranna');
+@import url('https://fonts.googleapis.com/css?family=Lalezar|Markazi+Text');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Julius+Sans+One|Marcellus');
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai|Changa+One|Cinzel|Saira+Semi+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Fontdiner+Swanky|Sacramento');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Megrim|Nixie+One|Raleway+Dots');
+@import url('https://fonts.googleapis.com/css?family=Nosifer|Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Cairo|Libre+Baskerville');
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+
+html {
+  font-size: 0.755em;
+}
+
+body {
+  font-family: 'Tauri', sans-serif;
+  font-weight: 400;
+  line-height: 1.45;
+}
+
+p {
+  margin-bottom: 1.3em;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Anton', sans-serif;
+  margin: 1.500em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+
+
+#section01 h1 {
+font-family: 'Libre Baskerville', serif;
+margin-top: 0;
+font-size: 2em;
+text-align: center;
+margin: 10px;
+}
+
+#section01 p {
+font-family: 'Cairo', sans-serif;
+color: rgb(255, 255, 255);
+font-size: 1.5em;
+margin-right:340px ;
+margin-left: 340px ;
+text-align: justify;
+
+}
+
+#section02 h1 {
+font-family: 'Nosifer', cursive;
+color: rgb(251, 201, 108);
+margin-top: 0;
+font-size: 1.75em;
+text-align: left;
+margin-top: 100px;
+margin-left:50px;
+}
+
+#section02 p {
+font-family: 'Open Sans', sans-serif;
+line-height: 2em;
+font-size: 1em;
+text-align: left;
+margin-right: 700px;
+margin-left:50px;
+}
+
+#section03 h1 {
+font-family: 'Megrim', cursive;
+margin: 70px;
+font-size: 4em;
+text-align: center;
+}
+
+#section03 p {
+font-family: 'Marcellus', serif;
+text-align: center;
+margin: 70px}
+
+#section04 p {
+font-family: 'Markazi Text', serif;
+color: rgb(245, 240, 230);
+font-size: 4em;
+text-align: center;
+}
+
+#section04 h1 {
+font-family: 'Markazi Text', serif;
+color: rgb(0, 0, 0);
+margin-top: 0;
+font-size: 7em;
+text-align: center;
+}
+
+#section04 span {display block
+justify-content: center;
+align-items: center;
+}
+
+#section05 h1 {
+font-family: 'Julius Sans One', sans-serif;
+margin-top: 0;
+font-size: 5em;
+text-align: center;
+text-decoration: overline dotted;
+}
+
+#section05 p {
+font-family: 'Suranna', serif;
+font-size: 2.5em
+}
+
+
+h2 {font-size: 2.827em;}
+
+h3 {font-size: 1.999em;}
+
+h4 {font-size: 1.414em;}
+
+small, .font_small {font-size: 0.707em;}
+
+
+.hero h1 {
+color: rgb(0, 0, 0);
+background:  rgba(255, 255, 255, 0.5);
+padding: 22px;
+font-size: 5em
+}
+
+.hero h1 span {
+  color : rgb(131, 47, 18);
+font-family: 'Anton', sans-serif;
+display: block;
+font-size: 0.8em
+}
