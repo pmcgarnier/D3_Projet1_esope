@@ -4,11 +4,13 @@ header {
 }
 
 header ul {
-  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+width:: 100%;
+list-style-type: none;
 }
 
 header li {
-  display: inline-grid;
   border: 1px solid #ffffff;
 }
 
