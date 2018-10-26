@@ -58,9 +58,9 @@ section {
   color : #fff;
   min-height: 90vh;
   background-size: cover;
+  display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
   text-align: center;
 }
 

@@ -39,14 +39,11 @@ text-align: center;
 margin: 10px;
 }
 
-#section01 p {
+#section01 .content {
 font-family: 'Cairo', sans-serif;
 color: rgb(255, 255, 255);
 font-size: 1.5em;
-margin-right:340px ;
-margin-left: 340px ;
-text-align: justify;
-
+max-width: 560px;
 }
 
 #section02 h1 {
