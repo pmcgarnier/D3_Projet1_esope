@@ -56,13 +56,11 @@ margin-top: 100px;
 margin-left:50px;
 }
 
-#section02 p {
+#section02 .content {
 font-family: 'Open Sans', sans-serif;
 line-height: 2em;
 font-size: 1em;
-text-align: left;
-margin-right: 700px;
-margin-left:50px;
+max-width: 560px;
 }
 
 #section03 h1 {
@@ -80,7 +78,7 @@ margin: 70px}
 #section04 p {
 font-family: 'Markazi Text', serif;
 color: rgb(245, 240, 230);
-font-size: 4em;
+font-size: 7em;
 text-align: center;
 }
 
